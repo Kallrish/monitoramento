@@ -1,4 +1,4 @@
-# gosm - go site monitor
+# GOSM - Go Site Monitor
 
 O GOSM é projeto em desenvolvimento de um monitorador de sites feito usando GO (também conhecida como Golang).
 
