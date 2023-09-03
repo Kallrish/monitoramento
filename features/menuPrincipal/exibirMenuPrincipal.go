@@ -15,7 +15,7 @@ import (
 
 func ExibeIntroducao() {
 	utility.GeraLinhaDeTextoVazio()
-	fmt.Println(constants.BEM_VINDO)
+	fmt.Println(constants.BEM_VINDO + constants.APP_NAME)
 	fmt.Println(constants.VERSAO, constants.VERSAO_APP)
 }
 

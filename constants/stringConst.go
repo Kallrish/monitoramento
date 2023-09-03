@@ -12,7 +12,7 @@ const (
 	SEGUNDOS                        = "segundos"
 	VEZ                             = "vez"
 	VEZES                           = "vezes"
-	BEM_VINDO                       = "Bem-vindo ao sistema de monitoramento!"
+	BEM_VINDO                       = "Bem-vindo ao\n"
 	MENU_PRINCIPAL                  = "Menu principal:"
 	DIGITE_OPCAO                    = "Digite o número da opção desejada:"
 	RETORNAR_MENU_ANTERIOR          = "Retornar ao menu anterior."
