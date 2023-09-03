@@ -1,0 +1,10 @@
+Data: 01/09/2023 - Hora: 15:43:18 - Site: https://www.google.com.br - Status: Online
+Data: 01/09/2023 - Hora: 15:43:18 - Site: https://www.mercadolivre.com.br - Status: Online
+Data: 01/09/2023 - Hora: 15:43:18 - Site: https://www.alelo.com.br - Status: Online
+Data: 03/09/2023 - Hora: 10:08:22 - Site: https://www.google.com.br - Status: Online
+Data: 03/09/2023 - Hora: 10:08:22 - Site: https://www.mercadolivre.com.br - Status: Online
+Data: 03/09/2023 - Hora: 10:08:22 - Site: https://www.alelo.com.br - Status: Online
+Data: 03/09/2023 - Hora: 10:09:46 - Site: https://www.google.com.br - Status: Online
+Data: 03/09/2023 - Hora: 10:09:46 - Site: https://www.mercadolivre.com.br - Status: Online
+Data: 03/09/2023 - Hora: 10:09:46 - Site: https://www.alelo.com.br - Status: Online
+Data: 03/09/2023 - Hora: 10:09:46 - Site: http://www.ofuxico.com.br - Status: Online
